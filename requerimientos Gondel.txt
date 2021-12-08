@@ -1,0 +1,31 @@
+Buenas tardes, de acuerdo a lo solicitado
+
+1. Se envían los datos básicos de los usuarios que usaran  el CRM 
+
+   ASESORAS DE VENTAS:
+    Mayra Anaya, teléfono 947298729, correo Ventas4@gondel.pe
+    Stephanie Mannco, teléfono 939296925 correo Ventas1@gondel.pe
+    Yokshell Garcia, teléfono 960913956 correo Ventas3@gondel.pe
+    Nelsi Perez, teléfono  980640248 correo Ventas2@gondel.pe
+    Elizabeth Cordoba, teléfono 981255906 correo ventas1@inrecosac.com
+
+   MARKETING
+   Mercedes Benancio, teléfono 922953622 correo publicidad@gondel.pe
+
+   JEFA DE VENTAS
+   Carmen Gerardino, teléfono 947299828 correo Administracion@gondel.pe
+  
+   GERENCIA
+    Por confirmar
+
+   LOGÍSTICA
+   Usuario logística1, correo despachoinreco@gmail.com
+
+2. Se anexan:
+     FORMATO DE COTIZACIÓN
+     FORMATO DE ORDEN DE COMPRA
+     MANEJO DE INVENTARIO
+     ARCHIVO EXCEL PARA EL CONTROL DE LOS PROSPECTOS DE VENDEDORAS ( acceso al archivo)
+     ARCHIVO EXCEL PARA EL CONTROL DE LOS PROSPECTOS DE MARKETING ( acceso al archivo)
+
+3. Se anexan logos de la organización GONDEL y de INRECO
