@@ -1,4 +1,5 @@
 Buenas tardes, de acuerdo a lo solicitado
+Se debe contactar al cliente para ayuda de sistemas
 
 1. Se envían los datos básicos de los usuarios que usaran  el CRM 
 
